@@ -5,8 +5,8 @@ import Image from "next/image";
 export default function Home() {
 
   return (
-    <main className="">
-      Testing
-    </main>
+    <div className="">
+      <button className="btn-primary">test</button>
+    </div>
   );
 }
