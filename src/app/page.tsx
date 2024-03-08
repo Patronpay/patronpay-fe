@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <div className="">
-      <button className="btn-primary">test</button>
+      <button className="btn-primary">Test</button>
     </div>
   );
 }
